@@ -10,6 +10,10 @@ export function Header() {
     <Container>
       <Avatar
         source={{ uri: 'https://media-exp1.licdn.com/dms/image/C4D03AQHNbXe8srzXoQ/profile-displayphoto-shrink_200_200/0/1592671000196?e=1659571200&v=beta&t=KQoxJZMBtHBshgw_VqE792T8tA4n4enSKmNuNT5v8SA' }}
+        accessible // informando que o Container é um componente acessível
+        // no accessibilityLabel eu coloco qual é a informação que eu quero que o
+        // leitor leia para o usuário
+        accessibilityLabel="Imagem de perfil do usuário"
       />
 
       <Logo source={logoImg} />
