@@ -16,8 +16,13 @@ export function Search() {
   return (
 
     <Container>
+      {
+      /*
+        no TextInput uma estratégia de acessibilidade é utilizar o placeholder
+      */
+      }
       <Input
-        placeholder="Encontrar partida..."
+        placeholder="Encontrar partida pelo nome..."
       />
 
       <Button

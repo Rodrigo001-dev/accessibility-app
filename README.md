@@ -16,5 +16,6 @@ Ex: uma pessoa está dirigindo e está utilizando o GPS do celular e ela quer mu
 <LINKEDIN>
 Nos dispositivos físicos vem com os recursos de acessibilidade, com um suite de acessibilidade só que no emulador ele não vem por padrão. Ex: no IOS tem o VoiceOver e no android é o TalkBack. No emulador é necessário fazer a instalação.
 O TalkBack(leitor de tela) é importante para principalmente pessoas que tem algum tipo de limitação de visão e que precisa ter uma experiência assistiva na aplicação, a experiência guiada.
-No TalkBack funciona assim: 1 click vai lêr para o usuário o que o elemento selecionado faz, vai lêr o que está selecionado, 2 clicks vai executar a ação
+No TalkBack funciona assim: 1 click vai lêr para o usuário o que o elemento selecionado faz, vai lêr o que está selecionado, 2 clicks vai executar a ação.
+Um fato interessante é que componentes de texto e componentes clicáveis já possuem acessibilidade ativa por padrão.
 <LINKEDIN>
