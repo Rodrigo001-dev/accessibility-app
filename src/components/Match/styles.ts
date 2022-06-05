@@ -1,6 +1,6 @@
 import styled from 'styled-components/native';
 
-export const Container = styled.TouchableOpacity`  
+export const Container = styled.TouchableOpacity`
   width: 100%;
   background-color: #FFF;
   flex-direction: row;
