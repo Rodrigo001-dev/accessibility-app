@@ -28,6 +28,9 @@ export function Search() {
       <Button
         onPress={() => setLoading(!loading)}
         disabled={loading}
+        // o accessibilityHint é para mostrar para o usuário o que vai acontecer
+        // se ele clicar no Button
+        accessibilityHint="Consultar partidas pelo nome do time."
       >
         {
           loading
