@@ -1,7 +1,7 @@
 import { Touchable } from 'react-native';
 import styled from 'styled-components/native';
 
-export const Container = styled(Touchable)`
+export const Container = styled.TouchableOpacity`
   width: 100%;
   background-color: #FFF;
   flex-direction: row;
