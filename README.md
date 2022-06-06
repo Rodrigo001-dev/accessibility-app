@@ -8,6 +8,7 @@ Acessibilidade é também desenvolver uma aplicação que vai ser inclusiva porq
 Temos 2 tipos recursos disponíveis para acessibilidade.
 
 1 - aquele tipo de acessibilidade que é importante manter permanente.
+
 2 - aquele tipo de acessibilidade que é temporária.
 
 Ex: uma pessoas que tem dificuldade de ver, pessoas que tem limitações na visualização, ou tem visualização 0, nesse caso a pessoa precisará de acessibilidade permanente, o tempo todo ela vai precisar como por exemplo um leitor de tela para guiar ela na utilização na aplicação.
