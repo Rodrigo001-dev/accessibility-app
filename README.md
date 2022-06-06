@@ -13,9 +13,15 @@ Ex: uma pessoas que tem dificuldade de ver, pessoas que tem limitações na visu
 
 Ex: uma pessoa está dirigindo e está utilizando o GPS do celular e ela quer mudar a rota, mas para não parar de dirigir ela utiliza a voz, nesse momento essa pessoa está precisando de acessibilidade porque ela está com as mãos ocupadas, é uma acessibilidade temporária.
 
-<LINKEDIN>
-Nos dispositivos físicos vem com os recursos de acessibilidade, com um suite de acessibilidade só que no emulador ele não vem por padrão. Ex: no IOS tem o VoiceOver e no android é o TalkBack. No emulador é necessário fazer a instalação.
-O TalkBack(leitor de tela) é importante para principalmente pessoas que tem algum tipo de limitação de visão e que precisa ter uma experiência assistiva na aplicação, a experiência guiada.
-No TalkBack funciona assim: 1 click vai lêr para o usuário o que o elemento selecionado faz, vai lêr o que está selecionado, 2 clicks vai executar a ação.
-Um fato interessante é que componentes de texto e componentes clicáveis já possuem acessibilidade ativa por padrão.
-<LINKEDIN>
+## 🚀 Tecnologias/Bibliotecas utilizadas
+  
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"> </a>
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React-Native"> </a>
+<a href="https://expo.dev/" target="_blank"> <img src="https://img.shields.io/badge/-Expo-32373E?style=flat-square&logo=expo&logoColor=white" alt="Expo"> </a>
+
+## 💻 Autor
+
+Feito com 💜 by Rodrigo Rael
+
+<a href="https://www.linkedin.com/in/rodrigo-rael-a7a4b51a9/" target="_blank"> <img src="https://img.shields.io/badge/-RodrigoRael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https" alt="Linkedin Rodrigo"> </a>
+<a href="https://img.shields.io/badge/-rodrigorael53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorael53@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-rodrigorael53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorael53@gmail.com" alt="Gmail Rodrigo"> </a>
