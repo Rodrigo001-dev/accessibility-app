@@ -6,6 +6,7 @@ Uma aplicação que possui acessibilidade é inclusiva, acessível e permite que
 Acessibilidade é também desenvolver uma aplicação que vai ser inclusiva porque ela vai atender um maior número de pessoas e isso também trás o benefício para a aplicação de alcançar mais pessoas, e com isso mais pessoas vão estár utilizando a aplicação
 
 Temos 2 tipos recursos disponíveis para acessibilidade.
+
 1 - aquele tipo de acessibilidade que é importante manter permanente.
 2 - aquele tipo de acessibilidade que é temporária.
 
